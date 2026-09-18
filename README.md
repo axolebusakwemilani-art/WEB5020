@@ -7,7 +7,7 @@ Currently Im struggling to figure out as to how to make the logo show when i ope
 The flexbox works fine.
 Dont know if i should add different colors.
 im going to keep it simple and neat.
-Archive.zip
+
 
 #Reference list
 Bro Code[2023] HTML & CSS Full Course for free, youtube. 
